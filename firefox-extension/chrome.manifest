@@ -1,0 +1,2 @@
+content	veohdownloader	content/
+overlay	chrome://browser/content/browser.xul	chrome://veohdownloader/content/app.xul

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#" xmlns:NC="http://home.netscape.com/NC-rdf#" xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:mozilla:install-manifest" em:id="{44108765-e908-48d4-aafb-65caa69edb93}" em:name="veohdownloader" em:version="1.0" em:creator="David Konsumer" em:description="Watch full-length videos from veoh, even in Linux" em:homepageURL="http://code.google.com/p/veohdownloader/">
+    <em:targetApplication RDF:resource="rdf:#$VqhFX" />
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf:#$VqhFX" em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}" em:minVersion="3" em:maxVersion="3.0.*" />
+</RDF:RDF>
+
